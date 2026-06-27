@@ -1,0 +1,14 @@
+python-dotenv
+openai
+langchain-openai
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-chroma
+langchain-text-splitters
+langchain-groq
+chromadb
+sentence-transformers
+faiss-cpu
+beautifulsoup4
+pydantic
